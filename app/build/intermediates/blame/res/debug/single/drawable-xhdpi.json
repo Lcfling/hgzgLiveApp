@@ -1,0 +1,746 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_linkedin.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_linkedin.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_close_pressed.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_close_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionbar_white_logo_icon.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_white_logo_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_flickr.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_flickr.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_instagram.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_instagram.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_sinaweibo.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_sinaweibo.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\head_icon.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\head_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_audio_off_n.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_audio_off_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\start_r.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\start_r.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_input_bg_focus.9.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_input_bg_focus.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\avatar_def.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\avatar_def.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_loading.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_title_div.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_title_div.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_scan_n.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_scan_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_country_back_arrow.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_country_back_arrow.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_telegram.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_telegram.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_music0.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_music0.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_twitter.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_twitter.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_email.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_email.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\splash.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\speed.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\speed.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\clip_ic_filter_pressed.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\clip_ic_filter_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_gift_icecream.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\icon_gift_icecream.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_tumblr.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_tumblr.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\nemediacontroller_mute02.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\nemediacontroller_mute02.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\g_green_btn_pressed.9.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\g_green_btn_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_qzone.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_qzone.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\clip_ic_done.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\clip_ic_done.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_message_n.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_message_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_camera_off_n.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_camera_off_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_renren.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_renren.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_mingdao.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_mingdao.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\flashstop.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\flashstop.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_screenshot_n.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_screenshot_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\nemediacontroller_bg.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\nemediacontroller_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\screen_cap.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\screen_cap.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_tencentweibo.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_tencentweibo.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_yixinmoments.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_yixinmoments.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\circle.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\circle.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_meipai.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_meipai.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_music_p.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_music_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_like_p.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_like_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_music2.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_music2.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\audio_e.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\audio_e.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\nemediacontroller_takesnap.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\nemediacontroller_takesnap.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\info.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\info.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\video_list_selected.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\video_list_selected.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_audio_on_p.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_audio_on_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_close_enter_room.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_close_enter_room.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_camera_off_p.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_camera_off_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_facebook.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_facebook.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_wechatmoments.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechatmoments.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pl_blue.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\pl_blue.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\dark_back_icon.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\dark_back_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_close_normal.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_close_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\user_account_icon.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\user_account_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_bluetooth.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_bluetooth.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_laiwang.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_laiwang.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_facebookmessenger.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_facebookmessenger.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\bg.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\master_icon.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\master_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_weibo_empty_failed.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_weibo_empty_failed.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\knife.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\knife.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_audio_off_p.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_audio_off_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\video_thumb.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\video_thumb.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_beauty_p.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_beauty_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\nemediacontroller_play.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\nemediacontroller_play.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\empty.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\empty.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_youdao.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_youdao.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_laiwangmoments.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_laiwangmoments.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\music.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\music.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\phone_number.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\phone_number.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_scan_p.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_scan_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\message_plus_guess_normal.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\message_plus_guess_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_pinterest.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_pinterest.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_gift_n.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_gift_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_weibo_common_shadow_top.9.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_weibo_common_shadow_top.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_share_n.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_share_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_evernote.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_evernote.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_kakaostory.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kakaostory.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_dingding.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_dingding.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\nemediacontroller_scale01.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\nemediacontroller_scale01.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_filter_beauty_p.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_filter_beauty_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\circle_identity_p.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\circle_identity_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_round_gray.9.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_round_gray.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_qq.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_qq.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\g_white_btn_normal.9.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\g_white_btn_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_on.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\switch_on.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_camera_switch_normal.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_camera_switch_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\small_kiss.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\small_kiss.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_camera_switch_pressed.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_camera_switch_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_camera_on_n.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_camera_on_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_foursquare.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_foursquare.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_shortmessage.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_shortmessage.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\register_right_top_btn_disable.9.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\register_right_top_btn_disable.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\register_right_top_btn_normal.9.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\register_right_top_btn_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\g_white_btn_pressed.9.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\g_white_btn_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_blue_round.9.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_blue_round.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\video_s.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\video_s.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_yixin.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_yixin.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\big_knife.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\big_knife.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\big_grimace.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\big_grimace.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_logo.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_logo.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\whitepoint.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\whitepoint.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cut_off.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\cut_off.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\scan.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\scan.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\big_kiss.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\big_kiss.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_check_checked.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_check_checked.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_gift_rose.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\icon_gift_rose.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\take_video.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\take_video.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\nemediacontroller_pause.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\nemediacontroller_pause.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_wechat.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechat.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_kaixin.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kaixin.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gray.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\gray.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_change_camera_p.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_change_camera_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_gift_chocolate.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\icon_gift_chocolate.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_forbidden.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_forbidden.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_filter_normal.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_filter_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow_right.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\arrow_right.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_kakaotalk.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kakaotalk.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\clip_ic_filter_normal.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\clip_ic_filter_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_filter_beauty_n.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_filter_beauty_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_alipaymoments.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_alipaymoments.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_back.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_back.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo_vcloud.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\logo_vcloud.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_country_cl_divider.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_country_cl_divider.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_wechatfavorite.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechatfavorite.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_change_camera_n.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_change_camera_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\nemediacontroller_scale02.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\nemediacontroller_scale02.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\flashstart.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\flashstart.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_audience.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_audience.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_no_filter_n.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_no_filter_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_googleplus.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_googleplus.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_alipay.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_alipay.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_pocket.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_pocket.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_screenshot_p.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_screenshot_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_like_n.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_like_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_gift_bear.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\icon_gift_bear.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\edittext_white_normal.9.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\edittext_white_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\progressbar_thumb_normal.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\progressbar_thumb_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_share_p.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_share_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_blue_circle.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_blue_circle.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\video_e.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\video_e.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_dropbox.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_dropbox.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_country_clear_search.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_country_clear_search.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_country_search_icon.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_country_search_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_country_sharesdk_icon.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_country_sharesdk_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_youtube.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_youtube.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_beauty_n.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_beauty_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\camera.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\camera.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_music1.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_music1.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mirror.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\mirror.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\circle_identity_n.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\circle_identity_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\video_list_unselected.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\video_list_unselected.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_round_hole.9.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_round_hole.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_message_p.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_message_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\nemediacontroller_mute01.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\nemediacontroller_mute01.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_whatsapp.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_whatsapp.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_back_arr.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_auth_title_back.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pl_yellow.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\pl_yellow.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_room_id.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\bg_room_id.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\admin_icon.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\admin_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_audio_on_n.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_audio_on_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_instapaper.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_instapaper.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\audio_s.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\audio_s.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\user_pwd_lock_icon.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\user_pwd_lock_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\filter.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\filter.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_camera_on_p.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_camera_on_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_douban.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_douban.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_gift_p.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_gift_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_no_filter_p.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_no_filter_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_vkontakte.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_vkontakte.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\account_login.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\account_login.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\nick_name_icon.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\nick_name_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_login.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\bg_login.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\verify_number.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\verify_number.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pl_red.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\pl_red.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\grimace.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\grimace.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_check_default.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_check_default.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\clip_ic_back.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\clip_ic_back.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_music_n.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\btn_music_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_line.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_line.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_live.png",
+        "source": "F:\\AndroidStudioProjects\\hgzgLiveApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_live.png"
+    }
+]
